@@ -1,6 +1,17 @@
 # WARGAMES-LINUX
 Personal documentation on what I learn playing wargames and using linux terminal
 
+## Goal / Roadmap
+Complete ALL of OverTheWire wargames starting from 
+
+Bandit (Basic Linux commands) Easiest
+
+To
+
+FormulaOne (Secure coding, code auditing, advanced vulnerability analysis) Hardest
+
+And complete at least 1 war game level a day.
+
 ## OverTheWire.org 
 
  OverTheWire Wargames is a free online platform designed to teach Linux, CyberSecurity, and ethical hacking skills.
