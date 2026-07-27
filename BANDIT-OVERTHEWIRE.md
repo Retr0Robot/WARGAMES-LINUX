@@ -2,7 +2,9 @@
 The bandit levels are the beginner levels and focus on the fundamentals of Linux/Linux commands and thinking like a trouble shooter
 
 I wont be leaking any level passwords or how to obtain the passwords for the next levels
-I will just be documenting what I learn such as certain commands, what those commands do, and problems that I come across playing these war games
+
+## Goals
+Document what I learn such as certain commands, what those commands do, and problems that I come across playing these war games
 
 ## Bandit0
 
