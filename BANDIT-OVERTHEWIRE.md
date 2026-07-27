@@ -1,5 +1,8 @@
-## LEVEL BANDIT
+## BANDIT LEVELS
 The bandit levels are the beginner levels and focus on the fundamentals of Linux/Linux commands and thinking like a trouble shooter
+
+<img width="1919" height="546" alt="Screenshot 2026-07-27 135714" src="https://github.com/user-attachments/assets/d0f152a9-0280-41ff-a9d1-5dca1f544459" />
+
 
 I wont be leaking any level passwords or how to obtain the passwords for the next levels
 
